@@ -26,6 +26,7 @@ const Hero: React.FC = () => {
           preload="metadata"
           crossOrigin="anonymous"
         >
+          <source src="https://res.cloudinary.com/di9eeahdy/video/upload/v1767370752/hero_wzkbu7.webm" type="video/webm" />
           <source src="https://res.cloudinary.com/di9eeahdy/video/upload/v1767363903/Ecole_Globale_International_Girls_School_-_Ecole_Globale_School_1080p_h264_qlwwax.mp4" type="video/mp4" />
         </video>
         <div className="absolute inset-0 bg-black/25 hero-gradient z-10"></div>
