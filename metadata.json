@@ -1,0 +1,9 @@
+
+{
+  "name": "Ecole Globale International Girls' School",
+  "description": "A premium, modern boarding school website for girls featuring sleek animations and comprehensive campus insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
